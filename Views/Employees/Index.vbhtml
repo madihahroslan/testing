@@ -4,7 +4,7 @@ ViewData("Title") = "Index"
 End Code
 
 <h2>Index</h2>
-<h1>***Hi there**</h1>
+<h1>***HELLOOO**</h1>
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
